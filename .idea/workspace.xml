@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3cc011e-aa5f-46df-9a6e-640eda8b2932" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/java-driver/driver-tests/osgi/src/main/java/com/datastax/driver/osgi/impl/Activator.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-driver/driver-tests/osgi/src/main/java/com/datastax/driver/osgi/impl/Activator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Fix.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,7 +15,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/java-driver" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1QTCyXK9lkfYjjcA8P5II20Jexb" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -57,6 +61,7 @@
       <workItem from="1567785454400" duration="1841000" />
       <workItem from="1568045378793" duration="6419000" />
       <workItem from="1568056135602" duration="10000" />
+      <workItem from="1568056445729" duration="598000" />
     </task>
     <servers />
   </component>
